@@ -1,4 +1,4 @@
-name: Publish Wishes and Ribbons
+name: Publish Wishes & Ribbons
 on:
   push:
     branches: [main]
